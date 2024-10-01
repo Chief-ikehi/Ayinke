@@ -43,7 +43,7 @@ function checkPassword() {
 
         if (attemptCount >= 3) {
             document.getElementById('hint1').style.display = 'block';
-            alert("Omo 🙁");
+            alert("Wahala for who no sabi me 🙁");
         }
     }
 }
